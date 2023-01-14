@@ -1,0 +1,1 @@
+int externVar = 3;
